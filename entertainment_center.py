@@ -19,7 +19,7 @@ blues_brothers = media.Movie(
     'Blues Brothers',
     'Two brothers bring the band back together.',
     'http://www.impawards.com/1980/posters/blues_brothers_ver1_xlg.jpg',
-    'https://www.youtube.com/watch?v=2HCR4c1zPyk&feature=youtu.be&t=5s',
+    'https://www.youtube.com/watch?v=A-xtJYIwfYo',
 )
 
 the_commitments = media.Movie(
