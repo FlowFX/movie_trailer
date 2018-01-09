@@ -26,7 +26,7 @@ the_commitments = media.Movie(
     'The Commitments',
     'An Irish soul band plays a concert without Wilson Picket.',
     'http://www.impawards.com/1991/posters/commitments.jpg',
-    'https://www.youtube.com/watch?v=3paf2TLrgsg&feature=youtu.be&t=6s',
+    'https://www.youtube.com/watch?v=3paf2TLrgsg',
 )
 
 sneakers = media.Movie(
@@ -40,7 +40,7 @@ first_blood = media.Movie(
     'First Blood',
     'A forest hike goes bad.',
     'http://www.impawards.com/1982/posters/first_blood_ver1.jpg',
-    'https://www.youtube.com/watch?v=IAqLKlxY3Eo&feature=youtu.be&t=5s',
+    'https://www.youtube.com/watch?v=IAqLKlxY3Eo',
 )
 
 movies = [
