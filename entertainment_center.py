@@ -18,29 +18,29 @@ avatar = media.Movie(
 blues_brothers = media.Movie(
     'Blues Brothers',
     'Two brothers bring the band back together.',
-    'poster image',
-    'youtube trailer',
+    'http://www.impawards.com/1980/posters/blues_brothers_ver1_xlg.jpg',
+    'https://www.youtube.com/watch?v=2HCR4c1zPyk&feature=youtu.be&t=5s',
 )
 
 the_commitments = media.Movie(
     'The Commitments',
     'An Irish soul band plays a concert without Wilson Picket.',
-    'poster image',
-    'youtune trailer',
+    'http://www.impawards.com/1991/posters/commitments.jpg',
+    'https://www.youtube.com/watch?v=3paf2TLrgsg&feature=youtu.be&t=6s',
 )
 
 sneakers = media.Movie(
     'Sneakers',
     'An epic battle of two computer hackers.',
-    'poster',
-    'youtube',
+    'http://www.impawards.com/1992/posters/sneakers.jpg',
+    'https://www.youtube.com/watch?v=8X_yiqK_sUs',
 )
 
 rambo = media.Movie(
     'Rambo: First Blood',
     'A forest hike goes bad.',
-    'poster',
-    'youtube',
+    'http://www.impawards.com/1982/posters/first_blood_ver1.jpg',
+    'https://www.youtube.com/watch?v=IAqLKlxY3Eo&feature=youtu.be&t=5s',
 )
 
 movies = [toy_story, avatar, blues_brothers, the_commitments]
