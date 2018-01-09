@@ -1,4 +1,6 @@
+# Provide magic code that generates the HTML.
 import fresh_tomatoes
+# Provide essential class media.Movie.
 import media
 
 
