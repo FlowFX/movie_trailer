@@ -1,6 +1,7 @@
 import fresh_tomatoes
 import media
 
+
 toy_story = media.Movie(
     'Toy Story',
     'A story of a boy and its toys that come alive.',
@@ -52,4 +53,5 @@ movies = [
     first_blood,
     ]
 
+# Generate an HTML page and open it in the browser
 fresh_tomatoes.open_movies_page(movies)
