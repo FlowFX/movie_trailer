@@ -1,2 +1,2 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+# Movie Trailer Website
+Source code for the Udacity nanodegree project.
