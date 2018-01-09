@@ -29,4 +29,18 @@ the_commitments = media.Movie(
     'youtune trailer',
 )
 
+sneakers = media.Movie(
+    'Sneakers',
+    'An epic battle of two computer hackers.',
+    'poster',
+    'youtube',
+)
+
+rambo = media.Movie(
+    'Rambo: First Blood',
+    'A forest hike goes bad.',
+    'poster',
+    'youtube',
+)
+
 movies = [toy_story, avatar, blues_brothers, the_commitments]
