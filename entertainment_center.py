@@ -43,4 +43,13 @@ first_blood = media.Movie(
     'https://www.youtube.com/watch?v=IAqLKlxY3Eo&feature=youtu.be&t=5s',
 )
 
-movies = [toy_story, avatar, blues_brothers, the_commitments]
+movies = [
+    toy_story,
+    avatar,
+    blues_brothers,
+    the_commitments,
+    sneakers,
+    first_blood,
+    ]
+
+fresh_tomatoes.open_movies_page(movies)
