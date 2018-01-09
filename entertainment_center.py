@@ -36,8 +36,8 @@ sneakers = media.Movie(
     'https://www.youtube.com/watch?v=8X_yiqK_sUs',
 )
 
-rambo = media.Movie(
-    'Rambo: First Blood',
+first_blood = media.Movie(
+    'First Blood',
     'A forest hike goes bad.',
     'http://www.impawards.com/1982/posters/first_blood_ver1.jpg',
     'https://www.youtube.com/watch?v=IAqLKlxY3Eo&feature=youtu.be&t=5s',
